@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<license>
+  <licensee>Independent</licensee>
+  <licenseid>tf.dias.oliveira@gmail.com</licenseid>
+  <hostid>*</hostid>
+  <platforms>
+    <platform>Windows</platform>
+    <platform>macOS</platform>
+    <platform>iOS</platform>
+  </platforms>
+  <addins>
+    <addin>VisualStudio</addin>
+    <addin>VisualStudioMac</addin>
+  </addins>
+  <start_date>2020-10-16</start_date>
+  <expiration_date>2020-12-16</expiration_date>
+  <signature>77EC2231BC93F9F50284408F4576F72632BC8F38017B36002479D39BE6112D125E970030932B2B0A6DC32EC9E96F3951E772FC9499F9EED345275B8277836605</signature>
+</license>
