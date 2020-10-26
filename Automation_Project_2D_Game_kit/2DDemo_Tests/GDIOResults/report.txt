@@ -1,0 +1,33 @@
+10/24/2020 11:17:31 AM: Version: 1.09.07.2020
+10/24/2020 11:47:34 AM: Version: 1.09.07.2020
+10/24/2020 11:48:43 AM: Version: 1.09.07.2020
+10/24/2020 11:49:36 AM: Version: 1.09.07.2020
+10/24/2020 1:23:11 PM: Version: 1.09.07.2020
+10/24/2020 1:24:37 PM: Version: 1.09.07.2020
+10/24/2020 1:29:21 PM: Version: 1.09.07.2020
+10/24/2020 1:45:47 PM: Version: 1.09.07.2020
+10/24/2020 1:45:56 PM: {"ExecutionTime":"10\/24\/2020 1:45:56 PM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+10/24/2020 1:46:32 PM: {"CheckpointName":"Zone 1 Complete!","ExecMethodName":"Zone1","Filename":"Test.cs","LineNumber":135,"Screenshot":"Checkpoint_Zone_1_Complete!_Unknown_10-24-2020_1_46_31_PM","Status":"PASS","TestCaseDesc":"Unknown","TestCaseName":"Unknown"}
+10/25/2020 11:31:30 AM: Version: 1.09.07.2020
+10/25/2020 11:31:35 AM: {"ExecutionTime":"10\/25\/2020 11:31:35 AM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+10/25/2020 11:31:54 AM: {"CheckpointName":"Zone 1 Complete!","ExecMethodName":"Zone1","Filename":"Test.cs","LineNumber":135,"Screenshot":"Checkpoint_Zone_1_Complete!_Unknown_10-25-2020_11_31_52_AM","Status":"PASS","TestCaseDesc":"Unknown","TestCaseName":"Unknown"}
+10/25/2020 1:58:30 PM: Version: 1.09.07.2020
+10/25/2020 1:58:37 PM: {"ExecutionTime":"10\/25\/2020 1:58:37 PM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+10/25/2020 2:01:26 PM: Version: 1.09.07.2020
+10/25/2020 2:01:31 PM: {"ExecutionTime":"10\/25\/2020 2:01:31 PM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+10/25/2020 2:02:18 PM: {"CheckpointName":"Zone 1 Complete!","ExecMethodName":"Zone1","Filename":"Test.cs","LineNumber":135,"Screenshot":"Checkpoint_Zone_1_Complete!_Unknown_10-25-2020_2_02_17_PM","Status":"PASS","TestCaseDesc":"Unknown","TestCaseName":"Unknown"}
+10/25/2020 2:30:23 PM: Version: 1.09.07.2020
+10/25/2020 2:30:29 PM: {"ExecutionTime":"10\/25\/2020 2:30:29 PM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+10/25/2020 2:32:07 PM: Version: 1.09.07.2020
+10/25/2020 2:32:13 PM: {"ExecutionTime":"10\/25\/2020 2:32:12 PM","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+25/10/2020 22:14:00: Version: 1.09.07.2020
+25/10/2020 22:14:05: {"ExecutionTime":"25\/10\/2020 22:14:05","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+25/10/2020 22:21:37: Version: 1.09.07.2020
+25/10/2020 22:22:48: Version: 1.09.07.2020
+25/10/2020 22:22:52: {"ExecutionTime":"25\/10\/2020 22:22:52","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+25/10/2020 22:25:05: Version: 1.09.07.2020
+25/10/2020 22:25:22: {"ExecutionTime":"25\/10\/2020 22:25:22","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+25/10/2020 22:26:11: Version: 1.09.07.2020
+25/10/2020 22:26:16: {"ExecutionTime":"25\/10\/2020 22:26:16","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+25/10/2020 22:27:11: Version: 1.09.07.2020
+25/10/2020 22:27:16: {"ExecutionTime":"25\/10\/2020 22:27:16","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}

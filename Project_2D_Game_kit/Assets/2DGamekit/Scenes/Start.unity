@@ -8845,8 +8845,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UseUnityEngineLogging: 1
-  m_EnableKeyboardHooks: 0
-  m_EnableMouseHooks: 0
+  m_EnableKeyboardHooks: 1
+  m_EnableMouseHooks: 1
   m_CaptureInputEvents: 1
   m_AgentHostnameOrIP: localhost
   m_AgentOverrideFromAutoplayRequest: 1
