@@ -31,3 +31,9 @@
 25/10/2020 22:26:16: {"ExecutionTime":"25\/10\/2020 22:26:16","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
 25/10/2020 22:27:11: Version: 1.09.07.2020
 25/10/2020 22:27:16: {"ExecutionTime":"25\/10\/2020 22:27:16","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+26/10/2020 12:57:04: Version: 1.09.07.2020
+26/10/2020 12:57:10: {"ExecutionTime":"26\/10\/2020 12:57:10","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+26/10/2020 12:58:16: {"CheckpointName":"Zone 1 Complete!","ExecMethodName":"Zone1","Filename":"Test.cs","LineNumber":135,"Screenshot":"Checkpoint_Zone_1_Complete!_Unknown_26-10-2020_12_58_16","Status":"PASS","TestCaseDesc":"Unknown","TestCaseName":"Unknown"}
+26/10/2020 13:00:43: Version: 1.09.07.2020
+26/10/2020 13:00:47: {"ExecutionTime":"26\/10\/2020 13:00:47","GameWindowHWND":"0","TestCaseDesc":"Unknown","TestCaseName":"Unknown","WindowTitle":""}
+26/10/2020 13:01:09: {"CheckpointName":"Zone 1 Complete!","ExecMethodName":"Zone1","Filename":"Test.cs","LineNumber":135,"Screenshot":"Checkpoint_Zone_1_Complete!_Unknown_26-10-2020_13_01_09","Status":"PASS","TestCaseDesc":"Unknown","TestCaseName":"Unknown"}
